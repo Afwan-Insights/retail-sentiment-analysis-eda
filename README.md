@@ -15,4 +15,4 @@ The goal of this project is to analyze customer reviews from a women's clothing 
 
 ## The Data
 The dataset consists of 23,000+ customer reviews. 
-*(Note: To replicate this analysis, download the dataset from [Insert Kaggle Link Here] and place it in the same directory as the notebook).*
+*(Note: To replicate this analysis, download the dataset from (https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews) and place it in the same directory as the notebook).*
